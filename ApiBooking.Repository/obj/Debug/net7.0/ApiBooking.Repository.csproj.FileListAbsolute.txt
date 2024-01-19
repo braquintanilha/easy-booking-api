@@ -1,0 +1,17 @@
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Repository.deps.json
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Repository.runtimeconfig.json
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Repository.dll
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Repository.pdb
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Domain.dll
+C:\workspace\ApiBooking\ApiBooking.Repository\bin\Debug\net7.0\ApiBooking.Domain.pdb
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.csproj.AssemblyReference.cache
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.AssemblyInfoInputs.cache
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.AssemblyInfo.cs
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.csproj.CoreCompileInputs.cache
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.csproj.CopyComplete
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.dll
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\refint\ApiBooking.Repository.dll
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.pdb
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ApiBooking.Repository.genruntimeconfig.cache
+C:\workspace\ApiBooking\ApiBooking.Repository\obj\Debug\net7.0\ref\ApiBooking.Repository.dll

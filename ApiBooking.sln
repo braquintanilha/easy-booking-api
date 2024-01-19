@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooking.Domain", "ApiBooking.Domain\ApiBooking.Domain.csproj", "{A4FBCBB6-D798-49D4-9F5F-6235E36C2DAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooking.Repository", "ApiBooking.Repository\ApiBooking.Repository.csproj", "{09F8E229-0C6C-4362-A25C-A03E2AB66087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooking.Tests", "ApiBooking.Tests\ApiBooking.Tests.csproj", "{633CBA83-740F-4A31-A779-AC24E3DE5FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiBooking.Api", "ApiBooking.Api\ApiBooking.Api.csproj", "{1A53905D-62AE-4052-85A5-C8829275CAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4FBCBB6-D798-49D4-9F5F-6235E36C2DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FBCBB6-D798-49D4-9F5F-6235E36C2DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FBCBB6-D798-49D4-9F5F-6235E36C2DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FBCBB6-D798-49D4-9F5F-6235E36C2DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09F8E229-0C6C-4362-A25C-A03E2AB66087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09F8E229-0C6C-4362-A25C-A03E2AB66087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09F8E229-0C6C-4362-A25C-A03E2AB66087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09F8E229-0C6C-4362-A25C-A03E2AB66087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633CBA83-740F-4A31-A779-AC24E3DE5FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633CBA83-740F-4A31-A779-AC24E3DE5FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633CBA83-740F-4A31-A779-AC24E3DE5FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633CBA83-740F-4A31-A779-AC24E3DE5FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A53905D-62AE-4052-85A5-C8829275CAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A53905D-62AE-4052-85A5-C8829275CAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A53905D-62AE-4052-85A5-C8829275CAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A53905D-62AE-4052-85A5-C8829275CAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
